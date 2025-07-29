@@ -372,7 +372,7 @@ This project demonstrates proficiency in:
 ## 👨‍💻 Developer
 
 **Keshav Ladha**  
-GitHub: [https://github.com/keshavladha/project.git](https://github.com/keshavladha/project.git)
+GitHub: [https://github.com/keshavladha/Movie-explorer.git)
 
 This project showcases full-stack development skills using modern web technologies including FastAPI, Vue.js, TypeScript, and SQLAlchemy.
 
